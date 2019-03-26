@@ -1,6 +1,6 @@
 # React + Youtube API search
 
-Simple project for lean React.
+Simple project to lean React.
 
 ## Getting started
 
